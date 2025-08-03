@@ -1,0 +1,9 @@
+.navbarLink{
+    color: teal;
+    text-decoration: none;
+    margin-left: 20px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding:5px 10px  ;
+}
+
